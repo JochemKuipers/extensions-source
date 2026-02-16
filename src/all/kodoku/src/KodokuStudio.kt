@@ -8,5 +8,6 @@ class KodokuStudio :
         "https://kodokustudio.com",
         "all",
     ) {
+    override val useNewChapterEndpoint = true
     override val mangaSubString = "manhua"
 }
