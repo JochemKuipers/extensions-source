@@ -3,7 +3,7 @@ ext {
     extClass = '.KodokuStudio'
     themePkg = 'madara'
     baseUrl = 'https://kodokustudio.com'
-    overrideVersionCode = 1
+    overrideVersionCode = 0
     isNsfw = false
 }
 
